@@ -1,0 +1,6 @@
+@Swagger_Postman_RoutingDemo_HostAddress = http://localhost:5125
+
+GET {{Swagger_Postman_RoutingDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
