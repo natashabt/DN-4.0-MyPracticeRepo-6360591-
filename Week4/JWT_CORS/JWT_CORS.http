@@ -1,0 +1,6 @@
+@JWT_CORS_HostAddress = http://localhost:5091
+
+GET {{JWT_CORS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
