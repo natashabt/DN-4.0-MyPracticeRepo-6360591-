@@ -1,0 +1,2 @@
+"Branch: GitNewBranch" 
+"Purpose: Demonstrate branching and merging" 
