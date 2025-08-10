@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"<note>Hi from master</note>" 
-=======
-"<message>Hello from branch</message>" 
->>>>>>> 1019c33 (Added hello.xml in GitWork)
+"<msg>Hello from Master branch</msg>" 
